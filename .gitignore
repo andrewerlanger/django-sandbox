@@ -89,4 +89,4 @@ local_settings.py
 db.sqlite3
 
 # Node modules
-node_modules
+node_modules/
