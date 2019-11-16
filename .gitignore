@@ -89,5 +89,6 @@ local_settings.py
 db.sqlite3
 
 # Node modules
+.gitignore
 node_modules/
 node_modules
